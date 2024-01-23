@@ -15,7 +15,7 @@ export const RESUME_DATA = {
     "Full Stack Engineer with a focus on building financial products",
   summary:
     "Three years of experience as a software developer, with a focus on building financial products. I have expertise in building mobile apps, web apps, and APIs, and for two years I have been able to work with a Fintech startup that builds financial infrastructure for businesses.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/72831371?s=96&v=4",
+  avatarUrl: "https://pbs.twimg.com/profile_images/1742510764970123264/n2zWqzg4_400x400.jpg",
   personalWebsiteUrl: "https://prosperabsalom.com",
   contact: {
     email: "howdy@prosperabsalom.com",
