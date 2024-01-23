@@ -14,7 +14,7 @@ export const RESUME_DATA = {
   about:
     "Full Stack Engineer with a focus on building financial products",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
+    "With three years of experience as a software developer, with a focus on building financial products. I have expertise in building mobile apps, web apps, and APIs, and for two years I have been able to work with a Fintech startup that builds financial infrastructure for businesses.",
   avatarUrl: "https://avatars.githubusercontent.com/u/72831371?s=96&v=4",
   personalWebsiteUrl: "https://prosperabsalom.com",
   contact: {
