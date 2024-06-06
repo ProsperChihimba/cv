@@ -106,6 +106,28 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "Rikwest",
+      techStack: ["Client Project", "Flutter", "Dart", "Python"],
+      description:
+        "Rikwest is Bolt like app for ride sharing between drivers and clients in Tanzania",
+      logo: MonitoLogo,
+      link: {
+        label: "#",
+        href: "https://apps.apple.com/ar/app/rikwest/id6502919669",
+      },
+    },
+    {
+      title: "Kipenzi",
+      techStack: ["Client Project", "Flutter", "Dart", "Python"],
+      description:
+        "Tinder for Tanzania, building a dating mobile application for Tanzanians",
+      logo: MonitoLogo,
+      link: {
+        label: "#",
+        href: "https://play.google.com/store/apps/details?id=com.kipenzi.app&hl=en_AU&gl=JP",
+      },
+    },
+    {
       title: "Shoket",
       techStack: ["Side Project", "Python", "Django", "Payment API"],
       description:
@@ -128,6 +150,17 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "Payroll app",
+      techStack: ["Personal Project", "Flutter", "Dart", "Python"],
+      description:
+        "A mobile app for managing payroll within organizations and startups",
+      logo: MonitoLogo,
+      link: {
+        label: "drimer.io/@payroll",
+        href: "https://drimer.io/@payroll",
+      },
+    },
+    {
       title: "Flutter Tanzania",
       techStack: ["Flutter", "Dart", "Writing", "Community Development"],
       description:
@@ -136,17 +169,6 @@ export const RESUME_DATA = {
       link: {
         label: "dev.to/fluttertanzania",
         href: "https://dev.to/fluttertanzania",
-      },
-    },
-    {
-      title: "Kipenzi",
-      techStack: ["Client Project", "Flutter", "Dart", "Python"],
-      description:
-        "Tinder for Tanzania, building a dating mobile application for Tanzanians",
-      logo: MonitoLogo,
-      link: {
-        label: "#",
-        href: "#",
       },
     },
   ],
